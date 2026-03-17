@@ -1,0 +1,101 @@
+Date,License Plate,Description,Camera,Site,Cleaned License Plate,Validation Reason,Make,Type Approval,Lookup Status,Lookup Status Code
+11/04/2025 10:32:21 AM UTC,ML12FDA,,CB52-E Bullet Camera,Coventry,ML12FDA,Valid UK current registration format,LONDON TAXIS INT,M1,Success,0
+11/04/2025 10:31:56 AM UTC,NI0LTE,,CB52-E Bullet Camera,Coventry,NI0LTE,Valid UK dateless registration format,,,InvalidSearchTerm,13
+11/04/2025 10:31:35 AM UTC,B2A0G,,CB52-E Bullet Camera,Coventry,B2A0G,Valid UK dateless registration format,,,InvalidSearchTerm,13
+11/04/2025 10:28:04 AM UTC,AF65JZM,,CB52-E Bullet Camera,Coventry,AF65JZM,Valid UK current registration format,TOYOTA,M1,Success,0
+11/04/2025 10:25:25 AM UTC,CV74VCF,,CB52-E Bullet Camera,Coventry,CV74VCF,Valid UK current registration format,FIAT,N1,Success,0
+11/04/2025 10:24:53 AM UTC,R024WFP,,CB52-E Bullet Camera,Coventry,R024WFP,Valid UK prefix registration format,,,NoResultsFound,2
+11/04/2025 10:20:42 AM UTC,LL15UHT,,CB52-E Bullet Camera,Coventry,LL15UHT,Valid UK current registration format,MERCEDES-BENZ,M1,Success,0
+11/04/2025 10:16:56 AM UTC,BV24FWM,,CB52-E Bullet Camera,Coventry,BV24FWM,Valid UK current registration format,LAND ROVER,M1,Success,0
+11/04/2025 10:16:38 AM UTC,EK70WVZ,,CB52-E Bullet Camera,Coventry,EK70WVZ,Valid UK current registration format,HYUNDAI,M1,Success,0
+11/04/2025 10:08:47 AM UTC,KN74ZKS,,CB52-E Bullet Camera,Coventry,KN74ZKS,Valid UK current registration format,VAUXHALL,N1,Success,0
+11/04/2025 10:04:40 AM UTC,KN66CEX,,CB52-E Bullet Camera,Coventry,KN66CEX,Valid UK current registration format,MERCEDES-BENZ,N2,Success,0
+11/04/2025 10:02:08 AM UTC,LF24V0J,,CB52-E Bullet Camera,Coventry,LF24V0J,Valid UK dateless registration format,,,InvalidSearchTerm,13
+11/04/2025 09:50:12 AM UTC,ND74KLK,,CB52-E Bullet Camera,Coventry,ND74KLK,Valid UK current registration format,VOLKSWAGEN,M1,Success,0
+11/04/2025 09:50:06 AM UTC,WU72MLL,,CB52-E Bullet Camera,Coventry,WU72MLL,Valid UK current registration format,AUDI,M1,Success,0
+11/04/2025 09:47:06 AM UTC,DX74ZFC,,CB52-E Bullet Camera,Coventry,DX74ZFC,Valid UK current registration format,SKODA,M1,Success,0
+11/04/2025 09:41:36 AM UTC,BP21WGU,,CB52-E Bullet Camera,Coventry,BP21WGU,Valid UK current registration format,VAUXHALL,M1,Success,0
+11/04/2025 09:41:28 AM UTC,BC18AEU,,CB52-E Bullet Camera,Coventry,BC18AEU,Valid UK current registration format,IVECO,N1,Success,0
+11/04/2025 09:39:59 AM UTC,0Y64EUJ,,CB52-E Bullet Camera,Coventry,0Y64EUJ,"Starts with zero, likely OCR confusion",,,Skipped before API,PRE_VALIDATION_FAILED
+11/04/2025 09:36:25 AM UTC,LW15GGF,,CB52-E Bullet Camera,Coventry,LW15GGF,Valid UK current registration format,TOYOTA,,SuccessWithResultsBlockWarnings,1
+11/04/2025 09:27:23 AM UTC,H20MHX,,CB52-E Bullet Camera,Coventry,H20MHX,Valid UK prefix registration format,FORD,N1,Success,0
+11/04/2025 09:22:08 AM UTC,WM09FYH,,CB52-E Bullet Camera,Coventry,WM09FYH,Valid UK current registration format,TOYOTA,M1,Success,0
+11/04/2025 09:21:41 AM UTC,GV06HZZ,,CB52-E Bullet Camera,Coventry,GV06HZZ,Valid UK current registration format,AUDI,M1,Success,0
+11/04/2025 09:16:43 AM UTC,AE08HRX,,CB52-E Bullet Camera,Coventry,AE08HRX,Valid UK current registration format,LONDON TAXIS INT,M1,Success,0
+11/04/2025 09:12:38 AM UTC,YJ19TDU,,CB52-E Bullet Camera,Coventry,YJ19TDU,Valid UK current registration format,VOLKSWAGEN,M1,Success,0
+11/04/2025 09:09:51 AM UTC,FG12BYU,,CB52-E Bullet Camera,Coventry,FG12BYU,Valid UK current registration format,VOLKSWAGEN,M1,Success,0
+11/04/2025 09:04:56 AM UTC,0W25RYC,,CB52-E Bullet Camera,Coventry,0W25RYC,"Starts with zero, likely OCR confusion",,,Skipped before API,PRE_VALIDATION_FAILED
+11/04/2025 09:01:48 AM UTC,GY58WEA,,CB52-E Bullet Camera,Coventry,GY58WEA,Valid UK current registration format,VOLKSWAGEN,M1,Success,0
+11/04/2025 09:00:35 AM UTC,MM16EAW,,CB52-E Bullet Camera,Coventry,MM16EAW,Valid UK current registration format,RENAULT,M1,Success,0
+11/04/2025 08:56:49 AM UTC,LG72DVN,,CB52-E Bullet Camera,Coventry,LG72DVN,Valid UK current registration format,BYD,,SuccessWithResultsBlockWarnings,1
+11/04/2025 08:56:20 AM UTC,BF70BFA,,CB52-E Bullet Camera,Coventry,BF70BFA,Valid UK current registration format,VOLKSWAGEN,M1,Success,0
+11/04/2025 08:53:36 AM UTC,C0V8DUV,,CB52-E Bullet Camera,Coventry,C0V8DUV,Valid UK dateless registration format,,,InvalidSearchTerm,13
+11/04/2025 08:51:12 AM UTC,ML68YEK,,CB52-E Bullet Camera,Coventry,ML68YEK,Valid UK current registration format,MERCEDES-BENZ,M1,Success,0
+11/04/2025 08:51:06 AM UTC,NX18SVY,,CB52-E Bullet Camera,Coventry,NX18SVY,Valid UK current registration format,SKODA,M1,Success,0
+11/04/2025 08:48:53 AM UTC,VK61BXN,,CB52-E Bullet Camera,Coventry,VK61BXN,Valid UK current registration format,SEAT,M1,Success,0
+11/04/2025 08:41:25 AM UTC,DL64DB0,,CB52-E Bullet Camera,Coventry,DL64DB0,Valid UK dateless registration format,,,InvalidSearchTerm,13
+11/04/2025 08:39:18 AM UTC,BL69FCY,,CB52-E Bullet Camera,Coventry,BL69FCY,Valid UK current registration format,MERCEDES-BENZ,N1,Success,0
+11/04/2025 08:30:17 AM UTC,EK23CDE,,CB52-E Bullet Camera,Coventry,EK23CDE,Valid UK current registration format,MERCEDES-BENZ,N2,Success,0
+11/04/2025 08:26:25 AM UTC,BG24LYX,,CB52-E Bullet Camera,Coventry,BG24LYX,Valid UK current registration format,SEAT,M1,Success,0
+11/04/2025 08:07:13 AM UTC,DS21Y0P,,CB52-E Bullet Camera,Coventry,DS21Y0P,Valid UK dateless registration format,,,InvalidSearchTerm,13
+11/04/2025 07:59:14 AM UTC,DY66AV0,,CB52-E Bullet Camera,Coventry,DY66AV0,Valid UK dateless registration format,,,InvalidSearchTerm,13
+11/04/2025 07:42:29 AM UTC,LD20PUH,,CB52-E Bullet Camera,Coventry,LD20PUH,Valid UK current registration format,BYD,,SuccessWithResultsBlockWarnings,1
+11/04/2025 07:41:13 AM UTC,KS14VCP,,CB52-E Bullet Camera,Coventry,KS14VCP,Valid UK current registration format,CITROEN,M1,Success,0
+11/04/2025 07:39:19 AM UTC,YB19VSZ,,CB52-E Bullet Camera,Coventry,YB19VSZ,Valid UK current registration format,BMW,M1,Success,0
+11/04/2025 07:19:30 AM UTC,PK20YJP,,CB52-E Bullet Camera,Coventry,PK20YJP,Valid UK current registration format,AUDI,M1,Success,0
+11/04/2025 05:18:30 AM UTC,KE212RV,,CB52-E Bullet Camera,Coventry,KE212RV,Valid UK dateless registration format,,,InvalidSearchTerm,13
+11/04/2025 03:07:54 AM UTC,HS6BY0G,,CB52-E Bullet Camera,Coventry,HS6BY0G,Valid UK dateless registration format,,,InvalidSearchTerm,13
+11/04/2025 12:55:33 AM UTC,NU74HKF,,CB52-E Bullet Camera,Coventry,NU74HKF,Valid UK current registration format,MERCEDES-BENZ,M1,Success,0
+11/04/2025 12:38:57 AM UTC,BX73FXH,,CB52-E Bullet Camera,Coventry,BX73FXH,Valid UK current registration format,TOYOTA,M1,Success,0
+11/03/2025 11:24:27 PM UTC,ML68VTE,,CB52-E Bullet Camera,Coventry,ML68VTE,Valid UK current registration format,CITROEN,N1,Success,0
+11/03/2025 11:08:45 PM UTC,RE12JJV,,CB52-E Bullet Camera,Coventry,RE12JJV,Valid UK current registration format,SMART,M1,Success,0
+11/03/2025 10:33:59 PM UTC,LG72DSZ,,CB52-E Bullet Camera,Coventry,LG72DSZ,Valid UK current registration format,BYD,,SuccessWithResultsBlockWarnings,1
+11/03/2025 10:29:46 PM UTC,PE15WZU,,CB52-E Bullet Camera,Coventry,PE15WZU,Valid UK current registration format,HYUNDAI,M1,Success,0
+11/03/2025 10:26:40 PM UTC,FL12TX0,,CB52-E Bullet Camera,Coventry,FL12TX0,Valid UK dateless registration format,,,InvalidSearchTerm,13
+11/03/2025 10:05:13 PM UTC,VF22BJV,,CB52-E Bullet Camera,Coventry,VF22BJV,Valid UK current registration format,LAND ROVER,,SuccessWithResultsBlockWarnings,1
+11/03/2025 09:58:05 PM UTC,0E17XMR,,CB52-E Bullet Camera,Coventry,0E17XMR,"Starts with zero, likely OCR confusion",,,Skipped before API,PRE_VALIDATION_FAILED
+11/03/2025 09:12:09 PM UTC,YD678ZW,,CB52-E Bullet Camera,Coventry,YD678ZW,Valid UK dateless registration format,,,InvalidSearchTerm,13
+11/03/2025 09:05:25 PM UTC,EF600EB,,CB52-E Bullet Camera,Coventry,EF600EB,Valid UK dateless registration format,,,InvalidSearchTerm,13
+11/03/2025 09:04:31 PM UTC,KM65VBF,,CB52-E Bullet Camera,Coventry,KM65VBF,Valid UK current registration format,VOLKSWAGEN,M1,Success,0
+11/03/2025 08:51:31 PM UTC,BF72PUY,,CB52-E Bullet Camera,Coventry,BF72PUY,Valid UK current registration format,LEXUS,M1,Success,0
+11/03/2025 08:39:05 PM UTC,YK72E7V,,CB52-E Bullet Camera,Coventry,YK72E7V,Valid UK dateless registration format,,,InvalidSearchTerm,13
+11/03/2025 08:30:28 PM UTC,SD13TT3,,CB52-E Bullet Camera,Coventry,SD13TT3,Valid UK dateless registration format,,,InvalidSearchTerm,13
+11/03/2025 08:00:09 PM UTC,GG64GC,,CB52-E Bullet Camera,Coventry,GG64GC,Valid UK dateless registration format,,,InvalidSearchTerm,13
+11/03/2025 07:42:45 PM UTC,LG72EBV,,CB52-E Bullet Camera,Coventry,LG72EBV,Valid UK current registration format,BYD,,SuccessWithResultsBlockWarnings,1
+11/03/2025 07:09:29 PM UTC,ST69VPF,,CB52-E Bullet Camera,Coventry,ST69VPF,Valid UK current registration format,TOYOTA,M1,Success,0
+11/03/2025 07:06:47 PM UTC,RJAPHY,,CB52-E Bullet Camera,Coventry,RJAPHY,Valid UK dateless registration format,,,InvalidSearchTerm,13
+11/03/2025 06:49:42 PM UTC,GV06HZZ,,CB52-E Bullet Camera,Coventry,GV06HZZ,Valid UK current registration format,AUDI,M1,Success,0
+11/03/2025 06:18:32 PM UTC,LP68UFM,,CB52-E Bullet Camera,Coventry,LP68UFM,Valid UK current registration format,MERCEDES-BENZ,M1,Success,0
+11/03/2025 06:18:12 PM UTC,EA59NLC,,CB52-E Bullet Camera,Coventry,EA59NLC,Valid UK current registration format,JAGUAR,M1,Success,0
+11/03/2025 06:15:37 PM UTC,YCJJFX,,CB52-E Bullet Camera,Coventry,YCJJFX,Valid UK dateless registration format,,,InvalidSearchTerm,13
+11/03/2025 06:00:31 PM UTC,VF22BJV,,CB52-E Bullet Camera,Coventry,VF22BJV,Valid UK current registration format,LAND ROVER,,SuccessWithResultsBlockWarnings,1
+11/03/2025 05:56:24 PM UTC,EG10MAR,,CB52-E Bullet Camera,Coventry,EG10MAR,Valid UK current registration format,ALFA ROMEO,M1,Success,0
+11/03/2025 05:51:32 PM UTC,BR18F0P,,CB52-E Bullet Camera,Coventry,BR18F0P,Valid UK dateless registration format,,,InvalidSearchTerm,13
+11/03/2025 05:46:11 PM UTC,LG22E9X,,CB52-E Bullet Camera,Coventry,LG22E9X,Valid UK dateless registration format,,,InvalidSearchTerm,13
+11/03/2025 05:44:35 PM UTC,SK74A0N,,CB52-E Bullet Camera,Coventry,SK74A0N,Valid UK dateless registration format,,,InvalidSearchTerm,13
+11/03/2025 05:38:14 PM UTC,SA10JVC,,CB52-E Bullet Camera,Coventry,SA10JVC,Valid UK current registration format,VAUXHALL,M1,Success,0
+11/03/2025 05:35:53 PM UTC,Y263LAP,,CB52-E Bullet Camera,Coventry,Y263LAP,Valid UK prefix registration format,BMW,M1,Success,0
+11/03/2025 05:34:03 PM UTC,ST69VPF,,CB52-E Bullet Camera,Coventry,ST69VPF,Valid UK current registration format,TOYOTA,M1,Success,0
+11/03/2025 05:25:17 PM UTC,LR16MKC,,CB52-E Bullet Camera,Coventry,LR16MKC,Valid UK current registration format,AUDI,M1,Success,0
+11/03/2025 05:15:29 PM UTC,BV74FFH,,CB52-E Bullet Camera,Coventry,BV74FFH,Valid UK current registration format,AUDI,M1,Success,0
+11/03/2025 05:14:42 PM UTC,B624LYX,,CB52-E Bullet Camera,Coventry,B624LYX,Valid UK prefix registration format,,,NoResultsFound,2
+11/03/2025 05:11:45 PM UTC,FV07V6P,,CB52-E Bullet Camera,Coventry,FV07V6P,Valid UK dateless registration format,,,InvalidSearchTerm,13
+11/03/2025 04:58:30 PM UTC,BW16RE0,,CB52-E Bullet Camera,Coventry,BW16RE0,Valid UK dateless registration format,,,InvalidSearchTerm,13
+11/03/2025 04:54:39 PM UTC,BF22RNZ,,CB52-E Bullet Camera,Coventry,BF22RNZ,Valid UK current registration format,PEUGEOT,M1,Success,0
+11/03/2025 04:47:55 PM UTC,FL12TX0,,CB52-E Bullet Camera,Coventry,FL12TX0,Valid UK dateless registration format,,,InvalidSearchTerm,13
+11/03/2025 04:46:44 PM UTC,VA59KPY,,CB52-E Bullet Camera,Coventry,VA59KPY,Valid UK current registration format,VOLKSWAGEN,M1,Success,0
+11/03/2025 04:41:35 PM UTC,LS67GKK,,CB52-E Bullet Camera,Coventry,LS67GKK,Valid UK current registration format,MERCEDES-BENZ,M1,Success,0
+11/03/2025 04:28:57 PM UTC,WD15BXM,,CB52-E Bullet Camera,Coventry,WD15BXM,Valid UK current registration format,,,NoResultsFound,2
+11/03/2025 04:14:07 PM UTC,PH51FYH,,CB52-E Bullet Camera,Coventry,PH51FYH,Valid UK current registration format,AUDI,M1,Success,0
+11/03/2025 04:10:07 PM UTC,BH17PPF,,CB52-E Bullet Camera,Coventry,BH17PPF,Valid UK current registration format,TOYOTA,M1,Success,0
+11/03/2025 03:56:12 PM UTC,FE68VEV,,CB52-E Bullet Camera,Coventry,FE68VEV,Valid UK current registration format,MERCEDES-BENZ,M1,Success,0
+11/03/2025 03:54:32 PM UTC,RE12JJV,,CB52-E Bullet Camera,Coventry,RE12JJV,Valid UK current registration format,SMART,M1,Success,0
+11/03/2025 03:49:07 PM UTC,KD07MAV,,CB52-E Bullet Camera,Coventry,KD07MAV,Valid UK current registration format,HYUNDAI,M1,Success,0
+11/03/2025 03:46:48 PM UTC,EK23CDE,,CB52-E Bullet Camera,Coventry,EK23CDE,Valid UK current registration format,MERCEDES-BENZ,N2,Success,0
+11/03/2025 03:45:16 PM UTC,LM69WBM,,CB52-E Bullet Camera,Coventry,LM69WBM,Valid UK current registration format,MERCEDES-BENZ,M1,Success,0
+11/03/2025 03:35:58 PM UTC,FA16MXV,,CB52-E Bullet Camera,Coventry,FA16MXV,Valid UK current registration format,NISSAN,M1,Success,0
+11/03/2025 03:31:46 PM UTC,RE12JJV,,CB52-E Bullet Camera,Coventry,RE12JJV,Valid UK current registration format,SMART,M1,Success,0
+11/03/2025 03:27:42 PM UTC,AK67DRZ,,CB52-E Bullet Camera,Coventry,AK67DRZ,Valid UK current registration format,KIA,M1,Success,0
+11/03/2025 03:26:58 PM UTC,YJ65NYX,,CB52-E Bullet Camera,Coventry,YJ65NYX,Valid UK current registration format,TOYOTA,,SuccessWithResultsBlockWarnings,1
+11/03/2025 03:26:31 PM UTC,BN64KLA,,CB52-E Bullet Camera,Coventry,BN64KLA,Valid UK current registration format,VAUXHALL,M1,Success,0
+11/03/2025 03:13:07 PM UTC,EU73YV0,,CB52-E Bullet Camera,Coventry,EU73YV0,Valid UK dateless registration format,,,InvalidSearchTerm,13

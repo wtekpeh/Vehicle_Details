@@ -1,0 +1,10 @@
+Date,License Plate,Description,Camera,Site,Cleaned License Plate,Validation Reason,Make,Type Approval,Lookup Status,Lookup Status Code
+11/04/2025 10:32:21 AM UTC,ML12FDA,,CB52-E Bullet Camera,Coventry,ML12FDA,Valid UK current registration format,LONDON TAXIS INT,M1,Success,0
+11/04/2025 10:31:56 AM UTC,NI0LTE,,CB52-E Bullet Camera,Coventry,NI0LTE,Valid UK dateless registration format,,,InvalidSearchTerm,13
+11/04/2025 10:31:35 AM UTC,B2A0G,,CB52-E Bullet Camera,Coventry,B2A0G,Valid UK dateless registration format,,,InvalidSearchTerm,13
+11/04/2025 10:28:04 AM UTC,AF65JZM,,CB52-E Bullet Camera,Coventry,AF65JZM,Valid UK current registration format,TOYOTA,M1,Success,0
+11/04/2025 10:25:25 AM UTC,CV74VCF,,CB52-E Bullet Camera,Coventry,CV74VCF,Valid UK current registration format,FIAT,N1,Success,0
+11/04/2025 10:24:53 AM UTC,R024WFP,,CB52-E Bullet Camera,Coventry,R024WFP,Valid UK prefix registration format,,,NoResultsFound,2
+11/04/2025 10:20:42 AM UTC,LL15UHT,,CB52-E Bullet Camera,Coventry,LL15UHT,Valid UK current registration format,MERCEDES-BENZ,M1,Success,0
+11/04/2025 10:16:56 AM UTC,BV24FWM,,CB52-E Bullet Camera,Coventry,BV24FWM,Valid UK current registration format,LAND ROVER,M1,Success,0
+11/04/2025 10:16:38 AM UTC,EK70WVZ,,CB52-E Bullet Camera,Coventry,EK70WVZ,Valid UK current registration format,HYUNDAI,M1,Success,0
